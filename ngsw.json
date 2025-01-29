@@ -1,0 +1,117 @@
+{
+  "configVersion": 1,
+  "timestamp": 1738110043367,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/chunk-O2HHNX3Y.js",
+        "/chunk-U6IOFACN.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main-TP5RI3ZN.js",
+        "/manifest.webmanifest",
+        "/polyfills-FFHMD2TL.js",
+        "/styles-JBK7QVY4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/epson-transparent_1.png",
+        "/assets/mini/af2030.png",
+        "/assets/mini/aqua.png",
+        "/assets/mini/bernier.png",
+        "/assets/mini/candy.png",
+        "/assets/mini/classic.png",
+        "/assets/mini/coco.png",
+        "/assets/mini/farmers.png",
+        "/assets/mini/feet.png",
+        "/assets/mini/ghs.png",
+        "/assets/mini/kraken.png",
+        "/assets/mini/magical.png",
+        "/assets/mini/pain.png",
+        "/assets/mini/pure.png",
+        "/assets/mini/salmon.png",
+        "/assets/mini/stingers.png",
+        "/assets/mini/tornado.png",
+        "/icons/icon-128x128.png",
+        "/icons/icon-144x144.png",
+        "/icons/icon-152x152.png",
+        "/icons/icon-192x192.png",
+        "/icons/icon-384x384.png",
+        "/icons/icon-512x512.png",
+        "/icons/icon-72x72.png",
+        "/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/epson-transparent_1.png": "863b26864f38a477be5b2b3b79e02fca0b96106c",
+    "/assets/mini/af2030.png": "d8fdbbab4ae20dd6f0afee8473118f30a4345138",
+    "/assets/mini/aqua.png": "cb6338ad34e27b7656c21b0f894f9d93fece93fd",
+    "/assets/mini/bernier.png": "b1fd8b88ac43ec0c8e9d06424fdeea7b709da57c",
+    "/assets/mini/candy.png": "75393836b5a017d2647db02f4149b8d0fca32150",
+    "/assets/mini/classic.png": "f4adbaca4b5e8ad2d51ea8b402486f743dea684b",
+    "/assets/mini/coco.png": "0d2b7f053f498d9d8cd953806d3b9834f8b2973c",
+    "/assets/mini/farmers.png": "a025029b58683d0e6150a6d78bcfebe2427fc4cd",
+    "/assets/mini/feet.png": "53e0d7d6e2fea504d4a3299f4cda4bd041d2b67c",
+    "/assets/mini/ghs.png": "0b94059fb55e9ad124da076332a0bc781e59f39a",
+    "/assets/mini/kraken.png": "d232cfd9df99189692e6eb179f14a6d761083ab9",
+    "/assets/mini/magical.png": "491aeb84e8c36c5a12d8ddbb124f07f9ea00d536",
+    "/assets/mini/pain.png": "1475535b8a87e87bcb806c00c85673eba6e1af3f",
+    "/assets/mini/pure.png": "b39ab3ac38d2fa60313adfc53488448085deabc6",
+    "/assets/mini/salmon.png": "ff26b1ec9aeaeaf25bc3f1662489817cdcd2e806",
+    "/assets/mini/stingers.png": "d7ae63758e2c4aeb66f44088f305506fffc711e5",
+    "/assets/mini/tornado.png": "5213179389e7cf3e65eba7db3d48fd00399e6935",
+    "/chunk-O2HHNX3Y.js": "d8e0a7a03e9d70cbbde73f683a8fdd51ff5440ad",
+    "/chunk-U6IOFACN.js": "bb2eb6efb070413d322640918d58bcfe4fcc6d04",
+    "/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/index.html": "dfce660ca69be22ac62b4445492541cb0fda8c0f",
+    "/main-TP5RI3ZN.js": "480bc60d1b7fe69833da0b65f49f1e3d68ee5283",
+    "/manifest.webmanifest": "be98672aa33944c28adf803269aaf26cd2e69896",
+    "/polyfills-FFHMD2TL.js": "f49b49a155bc7d192db62a4c15d0a612b460a667",
+    "/styles-JBK7QVY4.css": "8cdc8f1125b7097f05a229328dffa8a3f8eee450"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
